@@ -66,6 +66,7 @@
                     new technology to pave the way to a more intentional life and future.
                 </p>
             </div>
+            div.technology-section
         </div>
     </div>
 </template>
